@@ -25,3 +25,4 @@ They have three chances to answer each question you don't want to take the quiz 
 
 @5. Create a Hirst Painting Using Python (You must be clear turtle in python)
 Hirst’s spots follow a number of specific rules: The spots must be uniform in size, hand-painted in a perfect circle, and positioned in a grid. Almost always, every spot in a work will be a different color (and the spots are rarely black). 
+https://www.artsy.net/artist-series/damien-hirst-spots
